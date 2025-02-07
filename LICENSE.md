@@ -8,6 +8,10 @@ Source Code: https://github.com/delize/privileges-resources
 
 This license allows you to use and share this software for noncommercial purposes for free and to try this software for commercial purposes for thirty days.
 
+## Ammendment
+
+This software may be used for internal business operations within an organization. However, it may not be used for any revenue-generating activities, including but not limited to, commercial products, services, software-as-a-service (SaaS) offerings, or customer-facing applications.
+
 ## Agreement
 
 In order to receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software that triggers a rule you can't or won't follow.
@@ -57,6 +61,3 @@ You're excused for unknowingly breaking [Notices](#notices) if you take all prac
 ***As far as the law allows, this software comes as is, without any warranty or condition, and the contributor won't be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
 
 
-## Ammendment
-
-This software may be used for internal business operations but may not be used for any revenue-generating activities.
