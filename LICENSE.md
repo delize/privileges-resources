@@ -1,6 +1,7 @@
 # The Prosperity Public License 3.0.0
 
 Contributor: Andrew Doering
+
 Source Code: https://github.com/delize/privileges-resources
 
 ## Purpose
@@ -54,3 +55,8 @@ You're excused for unknowingly breaking [Notices](#notices) if you take all prac
 ## No Liability
 
 ***As far as the law allows, this software comes as is, without any warranty or condition, and the contributor won't be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
+
+
+## Ammendment
+
+This software may be used for internal business operations but may not be used for any revenue-generating activities.
