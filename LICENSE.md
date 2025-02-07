@@ -1,8 +1,7 @@
 # The Prosperity Public License 3.0.0
 
-Contributor: $name
-
-Source Code: $address
+Contributor: Andrew Doering
+Source Code: https://github.com/delize/privileges-resources
 
 ## Purpose
 
