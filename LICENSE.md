@@ -10,7 +10,19 @@ This license allows you to use and share this software for noncommercial purpose
 
 ## Ammendment
 
+### Internal Business Use
 This software may be used for internal business operations within an organization. However, it may not be used for any revenue-generating activities, including but not limited to, commercial products, services, software-as-a-service (SaaS) offerings, or customer-facing applications.
+
+### Public Credit & Ackknowledgement
+
+Any public use, distribution, or derivative work of this software must include a clear and visible acknowledgment of the original creator.
+This includes, but is not limited to:
+
+- Displaying the original author’s name and project name in prominent user interfaces where applicable.
+- Including credit in documentation, websites, or about sections when the software is used.
+-	Maintaining the original contributor’s name and source code information in all distributions.
+
+Failure to provide proper credit as specified may result in termination of the granted license.
 
 ## Agreement
 
