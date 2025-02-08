@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ExpirationInterval</key>
+    <integer>15</integer>
+    <key>ExpirationIntervalMax</key>
+    <integer>60</integer>
+    <key>AllowPrivilegeRenewal</key>
+    <false/>
+    <key>RenewalFollowsAuthSetting</key>
+    <true/>
+    <key>RequireAuthentication</key>
+    <true/>
+    <key>AllowCLIBiometricAuthentication</key>
+    <false/>
+    <key>PostChangeExecutablePath</key>
+    <string>/path/to/script/on-action.sh</string>
+    <key>PassReasonToExecutable</key>
+    <true/>
+    <key>PostChangeActionOnGrantOnly</key>
+    <false/>
+    <key>RevokePrivilegesAtLogin</key>
+    <true/>
+    <key>RevokeAtLoginExcludedUsers</key>
+    <array>
+      <string>administrator</string>
+      <string>root</string>
+    </array>
+    <key>HideOtherWindows</key>
+    <true/>
+    <key>ReasonRequired</key>
+    <true/>
+    <key>ReasonMinLength</key>
+    <integer>15</integer>
+    <key>ReasonMaxLength</key>
+    <integer>250</integer>
+    <key>ReasonCheckingEnabled</key>
+    <true/>
+    <key>HideSettingsButton</key>
+    <true/>
+    <key>ShowInMenuBar</key>
+    <false/>
+  </dict>
+</plist>
